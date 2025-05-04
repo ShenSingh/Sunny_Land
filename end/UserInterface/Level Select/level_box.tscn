@@ -1,0 +1,55 @@
+[gd_scene load_steps=8 format=3 uid="uid://dppvvkbav4jef"]
+
+[ext_resource type="Texture2D" uid="uid://d2uemvcyh5khi" path="res://assets/gui/png/Button.png" id="1_d8qy4"]
+[ext_resource type="Script" uid="uid://c5mc8pb3a12o1" path="res://UserInterface/Level Select/level_box.gd" id="2_gj48o"]
+[ext_resource type="FontFile" uid="uid://be25x56xj784r" path="res://assets/Others/Kenney Bold.ttf" id="2_yo555"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gj48o"]
+atlas = ExtResource("1_d8qy4")
+region = Rect2(548, 668, 181, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7md3c"]
+atlas = ExtResource("1_d8qy4")
+region = Rect2(969, 668, 181, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rdpl6"]
+atlas = ExtResource("1_d8qy4")
+region = Rect2(759, 668, 181, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_t3tu4"]
+atlas = ExtResource("1_d8qy4")
+region = Rect2(1389, 668, 182, 189)
+
+[node name="LevelBox" type="TextureButton"]
+custom_minimum_size = Vector2(50, 50)
+offset_right = 70.0
+offset_bottom = 70.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+disabled = true
+texture_normal = SubResource("AtlasTexture_gj48o")
+texture_pressed = SubResource("AtlasTexture_7md3c")
+texture_hover = SubResource("AtlasTexture_rdpl6")
+texture_disabled = SubResource("AtlasTexture_t3tu4")
+ignore_texture_size = true
+stretch_mode = 5
+script = ExtResource("2_gj48o")
+
+[node name="Label" type="Label" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_outline_color = Color(0.106916, 0.519691, 0.876303, 1)
+theme_override_constants/outline_size = 10
+theme_override_fonts/font = ExtResource("2_yo555")
+theme_override_font_sizes/font_size = 35
+text = "1"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="button_down" from="." to="." method="_on_pressed"]

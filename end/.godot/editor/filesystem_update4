@@ -1,0 +1,20 @@
+res://MainScreen/main_screen.gd
+res://MainScreen/main_screen.tscn
+res://assets/Others/world.tres
+res://Actors/player.tscn
+res://Levels/level_1.tscn
+res://UserInterface/Level Select/level_box.gd
+res://UserInterface/Level Select/level_box.tscn
+res://UserInterface/Level Select/level_select.tscn
+res://UserInterface/Level Select/level_select.gd
+res://UserInterface/fader.gd
+res://AutoLoads/on_screen_ui.gd
+res://Props/safe_house.gd
+res://Actors/player.gd
+res://UserInterface/Cherry.tscn
+res://UserInterface/hud.gd
+res://UserInterface/hud.tscn
+res://fileManager.gd
+res://Levels/level_3.tscn
+res://FileManager.gd
+res://Levels/level_2.tscn

@@ -1,0 +1,31 @@
+res://Actors/Enemies/frog.tscn::18a27dc6a62c2020e03d414fb221d465::1746207371::res://.godot/exported/133200997/export-c6f8fb8900f735f48fe3454f19577d9e-frog.scn
+res://Actors/Enemies/opossum.tscn::ecb0bcd16f57aa687e99a81f84010dae::1746207371::res://.godot/exported/133200997/export-55d9f448a7e4cc5205958362cd5db87a-opossum.scn
+res://Actors/player.tscn::31fd358cbd1e3ffd07e1821288f73244::1746372116::res://.godot/exported/133200997/export-33c4e5bc2f66bfcd59d450d3231cbdb8-player.scn
+res://assets/Others/world.tres::3a880ef9e5202256a6db08021f3ded59::1746289672::res://.godot/exported/133200997/export-e51951febeb61ad8d30480e55cdd963b-world.res
+res://Collectables/base_collectable.tscn::d01b45934cbbfc94e686a5d243389d7d::1746207371::res://.godot/exported/133200997/export-bbe03ba578459cf2371352989521b28b-base_collectable.scn
+res://Collectables/cherry.tscn::667691d0d97a057dbee3a198d64543d2::1746207371::res://.godot/exported/133200997/export-c266ea6f71486f5d2a27b98cab19ab8e-cherry.scn
+res://Collectables/gem.tscn::2d6c6fe972b3945bacdff8e2c5766dd1::1746207371::res://.godot/exported/133200997/export-794e1a515761ab205bf2eee83489bac8-gem.scn
+res://Components/attack_box_component.tscn::8d0501851adc0e5de3ce18ffe65e8a16::1746207371::res://.godot/exported/133200997/export-f30c9e817aa868bec3edd231039fec05-attack_box_component.scn
+res://Components/hit_box_component.tscn::f5146d1294b2b5664b1ccb61c3e20c68::1746207371::res://.godot/exported/133200997/export-31f44349fb9ede40309534d7126c7175-hit_box_component.scn
+res://Components/hurt_box_component.tscn::88f45fea9e9d87816797f1cb9df54b2b::1746207371::res://.godot/exported/133200997/export-2f609f1126e9dda1f49add0892cab870-hurt_box_component.scn
+res://Effect/enemy_death_effect.tscn::be92196e6df054b8fd33855e40c28572::1746207371::res://.godot/exported/133200997/export-007d0b2a0d97f73723c3888babf48ddc-enemy_death_effect.scn
+res://Effect/item_feedback_effect.tscn::9d8dbf74894c1b4e2c2929f006c716a9::1746207371::res://.godot/exported/133200997/export-cbb976ffb1d890c4b562d23bd9389451-item_feedback_effect.scn
+res://Levels/level_1.tscn::d2cbc40cbb655b85816e128b82d4edc6::1746229569::res://.godot/exported/133200997/export-fa9c54ec1f9d41bf90d27046a9bac1a2-level_1.scn
+res://Levels/level_2.tscn::c27513c8e0589a9668a9af7a2a265673::1746207371::res://.godot/exported/133200997/export-8009157c263a4ecd21ebf2223f1d9cc3-level_2.scn
+res://MainScreen/main_screen.tscn::deb1e5a09d8bbb20198445b5ec15668f::1746290521::res://.godot/exported/133200997/export-dcd260aed435f3e4212767ac0631451d-main_screen.scn
+res://Props/Platforms/Pushable/base_pushable_platform.tscn::ba2add68f399b0ebefcf548db8b37c14::1746207371::res://.godot/exported/133200997/export-0141e3ad801851de93aa7004442ea477-base_pushable_platform.scn
+res://Props/Platforms/Pushable/block_pushable_platform.tscn::b87174a3d90af38e9f46847baa0e8480::1746207371::res://.godot/exported/133200997/export-ae8e35a551bfb5b928870b1d9b5490aa-block_pushable_platform.scn
+res://Props/Platforms/Pushable/crate_pushable_platform.tscn::c39cd02743329054da01cb0ba8ea1f93::1746207371::res://.godot/exported/133200997/export-22d3720b3167f4545d71c6230c55229b-crate_pushable_platform.scn
+res://Props/Platforms/falling_platform.tscn::b26b94e9f1f788a51132a8fc65d250d8::1746207371::res://.godot/exported/133200997/export-bb990460c3328820b4939369886f5317-falling_platform.scn
+res://Props/Platforms/movable_platform.tscn::706beccc91a2658ea18c6452ccde1e90::1746207371::res://.godot/exported/133200997/export-32c510b9b2379114a62d85c944c6a727-movable_platform.scn
+res://Props/Spikes/base_spike.tscn::2d0c15d853c10e58df3fd386b8d039cf::1746207371::res://.godot/exported/133200997/export-644be5d839b89f01dfe8caa34435533a-base_spike.scn
+res://Props/Spikes/spike_bottom.tscn::79773f224b54bb2954c08a58fc5e8ede::1746207371::res://.godot/exported/133200997/export-8c7f17592fe4070c6ac3fb7a9f08d52f-spike_bottom.scn
+res://Props/Spikes/spike_skull.tscn::780fcf17c598270046685ee44cbe017e::1746207371::res://.godot/exported/133200997/export-34e6eea9e50c88cb1f285f4466fe7b34-spike_skull.scn
+res://Props/Spikes/spike_top.tscn::91e90b09330b6860d71b1dff94247d2f::1746207371::res://.godot/exported/133200997/export-fde8f2cb9d00dbaac6e556f84eadf409-spike_top.scn
+res://Props/safe_house.tscn::b50c3b6f661620089146dbbb1eb3eadc::1746207371::res://.godot/exported/133200997/export-99b4971bfca7bc2ef80a50b3aa990bd0-safe_house.scn
+res://UserInterface/Level Select/level_box.tscn::2ea6620e9626fcd9194ccfe9f42d2a5f::1746290521::res://.godot/exported/133200997/export-f7faf8887d9eb195d53f01195f908757-level_box.scn
+res://UserInterface/Level Select/level_select.tscn::7a57bd21928f67e855ce70076c56ebd4::1746378789::res://.godot/exported/133200997/export-df8abe6866ad7370ab9cb505cc77387b-level_select.scn
+res://UserInterface/bg.tscn::b3c2a1add53331dd2e08384cc89f779a::1746207371::res://.godot/exported/133200997/export-825648eddb521dc30727f2d053f79b79-bg.scn
+res://UserInterface/Cherry.tscn::8b195f4866e9d910b2bb948fd3c6d610::1746372116::res://.godot/exported/133200997/export-5bf87cfc6a44ba7199e19abf009c2004-Cherry.scn
+res://UserInterface/fader.tscn::76b2abbec208a784c272d441b84a1c65::1746207371::res://.godot/exported/133200997/export-0cdd2c8f146c4833d27fa98848832305-fader.scn
+res://UserInterface/hud.tscn::8b903f257a9e6989ade9c4dc3a79df10::1746378789::res://.godot/exported/133200997/export-76b50878ed0e3fa78261c6c8d73d7294-hud.scn
